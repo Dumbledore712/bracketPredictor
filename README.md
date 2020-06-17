@@ -15,7 +15,7 @@ Open all three files: TPAnimation.py, TPAnalytics.py, and TPRecords.py. Then run
 
 
 ## Libraries
-This project only requires tkinter.
+This project only requires the tkinter library.
 
 
 ## Shortcut Commands
