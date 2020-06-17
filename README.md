@@ -6,12 +6,16 @@ My term project is the “NHL Playoff Predictor.” The main feature of this pro
 Another feature is the head-to-head page that makes a prediction on the outcome of a single matchup between two teams. This is separate from the bracket page and . This feature will calculate the odds of a given matchup using Monte Carlo simulation in two ways: one based on the two teams’ win/loss records against each other, and the other based on their overall season statistics (goals for, goals against, etc.). A predicted score using the latter method will also be displayed.
 
 
+## Demo
+A short demo video can be viewed [here](http://youtu.be/31gPbJnHDmQ?hd=1).
+
+
 ## How to Run
 Open all three files: TPAnimation.py, TPAnalytics.py, and TPRecords.py. Then run the TPAnimation.py file to start the project.
 
 
 ## Libraries
-Only requires tkinter
+This project only requires tkinter.
 
 
 ## Shortcut Commands
